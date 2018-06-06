@@ -1,6 +1,13 @@
+what
+<<<<<<< HEAD
+1
 big
 check
 nice
 how
+libray
 what
-1
+play hvzi
+anbzhvzisbsbis
+=======
+>>>>>>> dev
