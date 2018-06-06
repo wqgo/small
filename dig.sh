@@ -3,4 +3,4 @@ check
 nice
 how
 what
-play hvzi
+1
